@@ -1,0 +1,150 @@
+﻿[This document was Google-translated to English from the Russian
+translation of the original Ukrainian.]
+
+———————————————————————————————————————
+
+National Academy
+Agrarian Sciences of Ukraine
+National Scientific
+Center "Institute
+experimental and
+clinical
+veterinary medicine"
+
+NATIONAL ACADEMY OF
+AGRARIAN SCIENCES OF
+UKRAINE
+National Scientific
+Center "Institute of
+Experimental and
+Clinical Veterinary
+medicine»
+
+11/14/2018 No. 974
+
+Director of the State
+scientific control institute
+biotechnology and strains of microorganisms,
+doctor of veterinary sciences,
+professor
+academician of NAAS of Ukraine
+Golovko A.M.
+
+The National Scientific Center "Institute of Experimental and Clinical Veterinary Medicine" asks for the deposition of the strain A/white-fronted goose/AH/1-15-12/16 (H5N8) of the highly pathogenic avian influenza virus. The strain will be used as a production strain for the manufacture of biological products, as well as for scientific research.
+
+We ask for permission to carry out work on the deposition of highly pathogenic avian influenza, as well as its further storage in the department for the study of avian diseases of the NSC "IEKVM" under BSL2+ conditions.
+
+Applications:
+1. Passport for the strain.
+2. Program for carrying out commission tests - 1 copy.
+3. Calendar plan for conducting commission tests - 1 copy.
+
+Director of SIC "IEKVM"
+doctor of veterinary sciences,
+professor, academician of NAAS
+B.T.Stegniy
+
+
+———————————————————————————————————————
+
+
+APPROVE
+Director of the NSC "IEKVM"
+doctor of veterinary sciences,
+professor, academician of NAAS
+_____________________Stegniy B.T.
+"____" _________________ 2018
+
+
+ACT
+studies of the biological properties of the highly pathogenic avian virus
+influenza subtype H5N8 strain A/white-fronted goose/AN/1-15-12/2016
+
+The study of the biological properties of the highly pathogenic avian influenza virus subtype H5N8 strain A/white-fronted goose/AN/1-15-12/2016 was carried out on the basis of the Department for the Study of Avian Diseases of the National Scientific Center "Institute of Experimental and Clinical Veterinary Medicine" together with representatives of the State Scientific Research Institute of Laboratory Diagnostics and Veterinary and Sanitary Expertise from January 2018 to August 2018.
+
+The purpose of the research: to reveal the biological properties of a new antigenic variant of the highly pathogenic avian influenza virus subtype H5N8, which was first isolated in Ukraine in 2016-2017.
+
+Materials and research methods.
+
+Virus: strain A/white-fronted goose/AN/1-15-12/2016 H5N8, 1 passage dated December 29, 2016.
+
+Reference blood sera: belonging of the strain to the H5 subtype influenza virus was determined through inhibition of hemagglutination (RIHA) using reference blood sera to ortho- and paramyxoviruses of the reference laboratories of the Veterinary Laboratories Agency (England, Weybridge), the Reference laboratory of influenza of the International Epizootic Bureau of the Institute of Zooprophylaxis ( Instituto Zooprofilattio Sperimentale delle Venezie, Padua, Italy) subtypes H1N1, H2N3, H3N8, H4N8, H5N3, H6N2, H7N3, H8N4, H9N7, H10N1, H11N9, H12N5, H13N6, H14N5, H15N9, H16N3, APMV-1, APMV -2, APMV-3, APMV-4, APMV-6, APMV-7, APMV-8, APMV-9 according to conventional methods.
+
+Determination of biological activity. Studies of the biological activity (determination of the titer) of influenza viruses were carried out on 9-10-day-old chicken embryos. Titration of viruses was carried out according to the standard method. To do this, tenfold diluted virus was prepared from 10-1 to 10-10 on the FSB. 4-6 embryos were taken for each dilution. The titer of biological activity was expressed in EID50/0.1 cm3, taking into account the presence of hemagglutinins in the extraembryonic fluid, as well as in ELD50/0.1 cm3, taking into account the number of dead chick embryos. The titer was calculated according to the method of Reed and Mench.
+
+Absence of contamination by bacterial and fungal microflora. Achieved the absence of contamination by bacterial and fungal microflora in accordance with GSTU4483.
+
+Molecular genetic studies were carried out in the laboratory of molecular epizootology and diagnostics of the NSC "IEKVM". Virus sequencing was performed at the Friedrich-Loeffler-Institut, Federal Research Institute for Animal Health (Rims Island, Germany).
+
+
+Research results.
+
+Virus identification. The results of serological identification of the strain of highly pathogenic avian influenza virus A/white-fronted goose/AN/1-15-12/16 (H5N8) in RZGA using reference blood sera are shown in Table 1
+
+Table 1
+Results of serological identification in RGCA
+
+Subtype A/white-fronted goose/AN/1-15-12/16
+H1N1    -
+H2N3    -
+H3N2    -
+H4N8    1:512
+H5N2    1:256
+H5N3    -
+H5N1    1:32
+H6N2    -
+H7N3    -
+H7N7    -
+H8N4    -
+H9N2    -
+H10N1   -
+H11N9   -
+H12N5   -
+H13N6   -
+H14N5   -
+H15N9   -
+H16N3   -
+PMV-1   -
+PMV-2   -
+PMV-3   -
+PMV-4   -
+PMV-6   -
+PMV-7   -
+PMV-8   -
+PMV-9   -
+
+It was established that positive reference blood sera to the H5 subtype influenza virus (with different subtypes of neuraminidase H5 N2, H5 N1) delayed the hemagglutination of isolates (working dose of the virus 4 GAO) in titers from 1:32 to 1:256. It should be noted that all other positive reference sera with antibodies to influenza viruses and avian paramyxoviruses serotypes 1-9 did not cause hemagglutination delay, with the exception of the reference serum to the H4N8 subtype influenza virus, which also caused a hemagglutination delay in a titer of 1:512-1: 1024. The presence of delayed hemagglutination of all isolates with reference serum H4N8 is associated with the presence of a cross-reaction between N8 neuraminidase.
+
+Thus, the noted strain belongs to the H5 subtype influenza virus.
+
+Determination of the hemagglutinating properties of the virus, infectious and lethal titer of the virus. When setting RHA in 1% of rooster erythrocytes, it was found that the titer of hemagglutinins in the extraembryonic fluid was 1:32-1:64 (during the initial isolation), and with further passage of the virus on chicken embryos, the titer of hemagglutinins in the extraembryonic fluid was 1:128-256.
+
+The results of determining the infectious and lethal titer are shown in table 2.
+
+table 2
+Results of titration of highly pathogenic influenza virus subtype H5N8 after primary isolation (1 passage).
+
+Breeding
+Number of embryos, pcs.
+Observation time, hours
+  24 48 72
+  Number of dead embryos
+RGA results
+Lethality, %
+Infection, %
+[data: see original document]
+
+
+It was found that the virus of highly pathogenic avian influenza A/white-fronted goose/AN/1-15-12/1016 H5N8 had a lethal titer of 8.5 lg ELD50, and an infectious titer of 7.87 lg ELD50 during primary isolation in chicken embryos.
+
+Absence of contamination by bacterial and fungal microflora. Achieved the absence of contamination by bacterial and fungal microflora in accordance with GSTU4483.
+
+During the storage period, no growth of microflora was detected in any vial.
+
+Influenza virus H5N8 A/white-fronted goose/AN/1-15-12/1016 is free from bacterial and fungal microflora.
+
+Molecular genetic research. The pathogenicity of the virus was determined by the results of sequencing of the hemagglutinin cutting site. It has been established that the site of hemagglutinin cutting has the following form SPLREKRRKR*GLF, which is typical for highly pathogenic influenza viruses.
+
+According to the results of phylogenetic analysis, this virus belongs to type 2.3.4.4b - highly pathogenic influenza viruses of subtype H5, and has phylogenetic relationships with viruses from Russia and Western Europe that circulated in 2017.
+
+Conclusion: The studied samples of the influenza virus H5N8 A/white-fronted goose/AN/1-15-12/1016 correspond to the passport data according to the verified indicators (serological identification, biological properties, contamination by bacterial and fungal microflora, molecular genetic) and can be deposited in the National Center for strains of microorganisms of the State Scientific and Control Institute of Biotechnology and Strains of Microorganisms.
